@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Farm.js experimental Strata</title>
+  <desc id="desc">A light F mark on a dark square.</desc>
+  <rect width="512" height="512" fill="#0A0A0A"/>
+  <path d="M132 116H380V186H212V226H350V294H212V396H132V116Z" fill="#B7F46D"/>
+</svg>
+
