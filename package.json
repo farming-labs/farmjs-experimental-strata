@@ -12,7 +12,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@farm.js/core": "0.1.0-beta.13",
+    "@farm.js/core": "0.1.0-beta.23",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
