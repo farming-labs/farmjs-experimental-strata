@@ -29,7 +29,7 @@ a Strata document, or call the native renderer directly. Farm evaluates eligible
 on the server and keeps normal React rendering when a tree is small, interactive, or unsupported.
 
 The counter in this starter is a Client Component. It demonstrates that React continues to own
-interactive state while Farm can optimize the content-heavy Server Component beside it.
+interactive state while Farm can optimize the surrounding Server Component content.
 
 ## Production check
 
@@ -47,8 +47,8 @@ Edge and Cloudflare worker targets need a future Wasm or JavaScript fallback.
 This starter pins the tested RSC combination:
 
 ```text
-@farm.js/core                 0.1.0-beta.10
+@farm.js/core                 0.1.0-beta.23
 @farm.js/cli                  0.1.0-beta.10
-react                         19.2.8
-react-dom                     19.2.8
+react                         ^19.0.0
+react-dom                     ^19.0.0
 ```
