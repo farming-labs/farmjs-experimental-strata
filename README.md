@@ -47,8 +47,8 @@ Edge and Cloudflare worker targets need a future Wasm or JavaScript fallback.
 This starter pins the tested RSC combination:
 
 ```text
-@farm.js/core                 0.1.0-beta.72
-@farm.js/cli                  0.1.0-beta.72
+@farm.js/core                 0.1.0-beta.95
+@farm.js/cli                  0.1.0-beta.95
 react                         ^19.0.0
 react-dom                     ^19.0.0
 ```
