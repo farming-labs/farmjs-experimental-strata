@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@farm.js/core':
-    specifier: 0.1.24
-    version: 0.1.24(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5)
+    specifier: 0.1.25
+    version: 0.1.25(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5)
   '@fontsource-variable/geist':
     specifier: 5.3.0
     version: 5.3.0
@@ -26,8 +26,8 @@ dependencies:
 
 devDependencies:
   '@farm.js/cli':
-    specifier: 0.1.24
-    version: 0.1.24(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5)
+    specifier: 0.1.25
+    version: 0.1.25(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5)
   '@tailwindcss/vite':
     specifier: ^4.3.3
     version: 4.3.3(vite@8.3.4)
@@ -61,12 +61,12 @@ packages:
       tslib: 2.8.1
     optional: true
 
-  /@farm.js/cli@0.1.24(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5):
-    resolution: {integrity: sha512-u+18mEkt082b1b9gF1FnBU6hiKxrTJIc3A15lIGRDt4GT3gB3QortK6+J1CrcsTu47Lxw0AE88iXTE+7GWO7lA==}
+  /@farm.js/cli@0.1.25(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5):
+    resolution: {integrity: sha512-k7JptbXLtwYWqqpocLwZK5O2GPFxpg9CXMv+zyLUTT2W1CyjahKIqla52aE2c6tuHKMhXcM/46eR8aqTg013Gw==}
     engines: {node: '>=22.13.0'}
     hasBin: true
     dependencies:
-      '@farm.js/core': 0.1.24(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5)
+      '@farm.js/core': 0.1.25(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5)
       '@farm.js/tunnel': 0.1.2
       commander: 11.1.0
       croner: 9.1.0
@@ -130,8 +130,8 @@ packages:
       - yaml
     dev: true
 
-  /@farm.js/core@0.1.24(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5):
-    resolution: {integrity: sha512-g0NEC+m21sPDwwmwEmJVeqjVLjfX0hylyNF6USwy2mMIKXW8PvG3ygRrdJR5Ff0vg1vdXUoC7hLr+yUdNynKaw==}
+  /@farm.js/core@0.1.25(@tailwindcss/vite@4.3.3)(react-dom@19.3.1)(react@19.3.1)(sharp@0.35.5):
+    resolution: {integrity: sha512-svxCoUkD7Ss06GnGu+kdFePasuddjGS+P+7c0gLGf+iTu3kDPbSG2tY5vK7COd2VERvg546TRtv+ysM0y/2TGQ==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
       '@farming-labs/docs': ^0.2.118
